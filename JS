@@ -1,0 +1,27 @@
+{
+"estudiantes": [
+{"id": 1, "Nombre":"Guadalupe","apellido":"Astudillo","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 2, "Nombre":"Geovanny","apellido": "Herrera","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 3, "Nombre":"Freddy","Apellido": "Astudillo","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 4, "Nombre":"Lorena","Apellido": "Dutan","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 5, "Nombre":"Agustin","Apellido": "Ortega","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 6,"Nombre":"Karol","Apellido": "Peñafiel","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 7,"Nombre":"Bryan","Apellido": "Romero","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 8, "Nombre":"Mercy","Apellido": "Sumba","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 9, "Nombre":"Jaime","Apellido": "Sumba","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 10, "Nombre":"Jhonatan",Apellido: "Peralta","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 11, "Nombre":"Eric",Apellido: "Peralta","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 12, "Nombre":"Esthela",Apellido: "Lata","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 13, "Nombre":"Jefferson",Apellido: "Trelles","Telefono":"0734567120","Profesion":"Estudiante" },
+{"id": 14, "Nombre":"Jhonatan",Apellido: "Peralta","Telefono":"0734567120","Profesion":"Estudiante" },
+
+]
+"docentes": [
+{"id": 1, "Nombre":"Adrian",Apellido: "Guzman","Telefono":"0734567120","Profesion":"Ingeniero" },
+{"id": 2, "Nombre":"Cristina",Apellido: "Cuenca","Telefono":"0734567120","Profesion":"Ingeniera" },}
+{"id": 3, "Nombre":"Alexandra",Apellido: "Molina","Telefono":"0734567120","Profesion":"licenciada" },
+{"id": 4, "Nombre":"Juan",Apellido: "Araujo","Telefono":"0734567120","Profesion":"Ingeniero" },
+{"id": 5, "Nombre":"Mauricio",Apellido: "Palomino","Telefono":"0734567120","Profesion":"Ingeniero" },
+{"id": 6, "Nombre":"Javier",Apellido: "Romero","Telefono":"0734567120","Profesion":"Ingeniero" },
+]
+}
